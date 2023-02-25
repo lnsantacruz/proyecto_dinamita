@@ -1,2 +1,1 @@
-# proyecto_dinamita
-# prueba proyecto_dinamita
+#Proyecto Inteligencia Artificial
