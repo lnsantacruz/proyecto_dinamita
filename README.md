@@ -16,7 +16,7 @@ En 1941 Konrad Zuse creo el denominado Z3, este tiene un lugar muy destacado en 
 
 1956. John McCarthy acuña por primera vez el término Inteligencia Artificial durante la conferencia de Darmouth“, y dijo: "Este estudio procederá sobre la base de que todos los aspectos del aprendizaje o de rasgo de la inteligencia pueden, en principio, ser descritos de una forma tan precisa que se puede crear una máquina que los simule”.
 
-
+En 1965, el gobierno de los Estados Unidos decidió construir el primer centro de datos para almacenar más de 742 millones de declaraciones de impuestos. Así como 175 millones de conjuntos de huellas dactilares transfiriendo todos esos registros a cintas magnéticas de computadora que debían almacenarse en un solo lugar.
 
 
 ![image](https://user-images.githubusercontent.com/94588467/222309194-40e4413f-0b63-4ae0-94e8-e564c9683276.png)
