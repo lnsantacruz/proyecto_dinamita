@@ -29,3 +29,4 @@ En 1965, el gobierno de los Estados Unidos decidió construir el primer centro d
 1. https://www.nationalgeographic.com.es/ciencia/breve-historia-visual-inteligencia-artificial_14419
 2. https://parceladigital.com/articulo/la-maquina-z3-de-zuse
 3. https://www.bbvaopenmind.com/tecnologia/inteligencia-artificial/el-verdadero-padre-de-la-inteligencia-artificial/#:~:text=En%201956%2C%20John%20organiza%20la,ingenier%C3%ADa%20de%20hacer%20m%C3%A1quinas%20inteligentes.
+4. https://www.egosbi.com/historia-del-big-data/#:~:text=La%20primera%20m%C3%A1quina%20de%20procesamiento,de%205.000%20caracteres%20por%20segundo.
