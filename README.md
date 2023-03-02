@@ -11,6 +11,7 @@ HOLA MI NOMBRE ES LAURA <3
 
 ![image](https://user-images.githubusercontent.com/67651082/222308090-9e1d17b8-2cda-495a-b8ad-6e4a7f0f1b7f.png)
 
+En 1941 Konrad Zuse creo el denominado Z3, este tiene un lugar muy destacado en la historia de la informática, ya que tiene el honor de ser el primer ordenador binario programable y completamente automático. Esta máquina construida por el ejército alemán con fines militares justo en medio de la Segunda Guerra Mundial.
 
 
 
@@ -21,3 +22,4 @@ HOLA MI NOMBRE ES LAURA <3
 
 #Referencias
 1. https://www.nationalgeographic.com.es/ciencia/breve-historia-visual-inteligencia-artificial_14419
+2. https://parceladigital.com/articulo/la-maquina-z3-de-zuse
