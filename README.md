@@ -17,6 +17,7 @@ En 1941 Konrad Zuse creo el denominado Z3, este tiene un lugar muy destacado en 
 1956. John McCarthy acuña por primera vez el término Inteligencia Artificial durante la conferencia de Darmouth“, y dijo: "Este estudio procederá sobre la base de que todos los aspectos del aprendizaje o de rasgo de la inteligencia pueden, en principio, ser descritos de una forma tan precisa que se puede crear una máquina que los simule”.
 
 
+![image](https://user-images.githubusercontent.com/125932078/222309090-f924de24-4829-40d4-b31d-41d15d641955.png)
 
 
 
