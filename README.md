@@ -22,6 +22,9 @@ En 1941 Konrad Zuse creo el denominado Z3, este tiene un lugar muy destacado en 
 ![image](https://user-images.githubusercontent.com/94588467/222309194-40e4413f-0b63-4ae0-94e8-e564c9683276.png)
 
 
+![image](https://user-images.githubusercontent.com/125932078/222309600-70a8c00d-f90b-4e3f-b1f1-6d80c536dff5.png)
+
+
 #Referencias
 1. https://www.nationalgeographic.com.es/ciencia/breve-historia-visual-inteligencia-artificial_14419
 2. https://parceladigital.com/articulo/la-maquina-z3-de-zuse
