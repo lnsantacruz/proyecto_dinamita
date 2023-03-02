@@ -18,6 +18,10 @@ En 1941 Konrad Zuse creo el denominado Z3, este tiene un lugar muy destacado en 
 
 En 1965, el gobierno de los Estados Unidos decidió construir el primer centro de datos para almacenar más de 742 millones de declaraciones de impuestos. Así como 175 millones de conjuntos de huellas dactilares transfiriendo todos esos registros a cintas magnéticas de computadora que debían almacenarse en un solo lugar.
 
+En 1989, el científico informático británico Tim Berners-Lee inventó finalmente la World Wide Web. Quería facilitar el intercambio de información a través de un sistema de «hipertexto». Pero él no sabía en ese momento el impacto que su invento iba a tener en el futuro.
+
+A partir de los años 90, la creación de datos se ve impulsada a medida que cada vez más dispositivos están conectados a Internet. En 1995 se construyó la primera supercomputadora. Que fue capaz de hacer tanto trabajo en un segundo de lo que puede hacer una calculadora operada por una sola persona en 30.000 años.
+
 
 ![image](https://user-images.githubusercontent.com/94588467/222309194-40e4413f-0b63-4ae0-94e8-e564c9683276.png)
 
