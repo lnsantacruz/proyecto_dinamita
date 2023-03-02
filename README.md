@@ -14,7 +14,7 @@ y sienta las bases de la informática.
 En 1941 Konrad Zuse creo el denominado Z3, este tiene un lugar muy destacado en la historia de la informática, ya que tiene el honor de ser el primer ordenador binario programable y completamente automático. Esta máquina construida por el ejército alemán con fines militares justo en medio de la Segunda Guerra Mundial.
 
 
-
+1956. John McCarthy acuña por primera vez el término Inteligencia Artificial durante la conferencia de Darmouth“, y dijo: "Este estudio procederá sobre la base de que todos los aspectos del aprendizaje o de rasgo de la inteligencia pueden, en principio, ser descritos de una forma tan precisa que se puede crear una máquina que los simule”.
 
 
 
