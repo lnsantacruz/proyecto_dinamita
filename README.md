@@ -3,6 +3,8 @@
 
 BIG DATA A TRAVES DEL TIEMPO 
 
+¿Qué es big data?
+Se trata del procesamiento de una cantidad de datos masivos. Tan ingente, que no son capaz de ser procesados y analizados por la tecnología y software convencional.  El análisis de esa gran cantidad de datos busca encontrar patrones repetitivos. De ellos obtiene información suficiente para poder tomar decisiones automáticamente en base a ellos.
 
 1936. El concepto de algoritmo
 El considerado padre de la computación moderna Alan Turing, publica su este año su artículo sobre los números computables en el que introduce el concepto de algoritmo
