@@ -7,6 +7,7 @@ y sienta las bases de la informática.
 
 
 
+![image](https://user-images.githubusercontent.com/67651082/222307927-8459ce0e-6349-47d8-bdc2-f2a93a3e807b.png)
 
 
 
