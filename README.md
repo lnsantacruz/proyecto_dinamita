@@ -35,6 +35,13 @@ A partir de los años 90, la creación de datos se ve impulsada a medida que cad
 
 ![image](https://user-images.githubusercontent.com/125932078/222309600-70a8c00d-f90b-4e3f-b1f1-6d80c536dff5.png)
 
+En 2020 se espera que la generación anual de datos haya aumentado hasta un 4.300%. El crecimiento estará motivado por el cambio de las tecnologías analógicas a digitales y por la cantidad de información generada tanto por los usuarios como por las empresas.
+
+Según Gartner, en 2020 habrá más de 25.000 millones de dispositivos conectados a Internet. A finales de 2013, la cantidad de datos generados por los dispositivos era de 4.4 billones de GB. Cifra que se espera se multiplique por 10 en 2020. Esta gran cantidad de datos requerirá de nuevas técnicas. También de una capacidad de gestión mayor y tener muy en cuenta las 3 Vs del Big Data: Velocidad, Variedad y Volumen.
+
+Lo conseguido ya con el Big Data permite ver el futuro con optimismo. Será siempre y cuando la tecnología crezca al nivel que lo hacen los datos. Áreas como el medio ambiente, la salud, la productividad o la vida personal podrán verse beneficiadas por esos miles de millones de bytes que generamos diariamente.
+
+
 
 #Referencias
 1. https://www.nationalgeographic.com.es/ciencia/breve-historia-visual-inteligencia-artificial_14419
