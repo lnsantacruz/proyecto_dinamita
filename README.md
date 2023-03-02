@@ -5,7 +5,7 @@ El considerado padre de la computación moderna Alan Turing, publica su este añ
 y sienta las bases de la informática.
 
 
-HOLA MI NOMBRE ES LAURA <3
+
 
 
 
