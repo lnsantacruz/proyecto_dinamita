@@ -35,6 +35,18 @@ A partir de los años 90, la creación de datos se ve impulsada a medida que cad
 
 ![image](https://user-images.githubusercontent.com/125932078/222309600-70a8c00d-f90b-4e3f-b1f1-6d80c536dff5.png)
 
+Que se proyecta en años desde 2022 y 2023
+
+Data Warehouse de nueva generación: La confluencia entre el cloud y el Big Data está al alza. Prueba de ello es el Data Warehouse de nueva generación, es decir, las tecnologías y prácticas que se piensan y crean por y para la nube. Así el Data Fabrics, Data Mesh y Data Vault son alguna de las tendencias que, en este sentido, predominarán en las conversaciones sobre el Big Data corporativo del futuro.
+ 
+Automatización robótica de procesos (RPA): Es otro de los platos fuertes del último año y que seguirá siendo tendencia en 2022. Los robots software que se encargan de tareas y procesos rutinarios son y serán cada vez más importantes en las organizaciones para impulsar la eficiencia en los procesos internos. Pero esta integración se debe hacer de manera profesional, acompañado de auténticos líderes del mercado, para que la inversión sea fructífera. ¿Cómo hacerlo? ¿Cuándo? ¿Por qué procesos se podría empezar en función de la empresa? En Big Data & AI World Madrid se darán cita los líderes del sector que presentarán sus novedades y herramientas.
+ 
+La realidad extendida: En 2022 daremos un paso al frente para introducirnos de lleno en el metaverso. Esa palabra que empezó a retumbar en 2021 será una de las indiscutibles tendencias del año. ¿Cómo está impactando en el ecosistema empresarial de IA? ¿Qué deben tener presente las empresas para integrarlas? ¿Qué servicios y herramientas destacarán entorno al metaverso? Son muchas las incógnitas que giran en torno a este universo donde confluye la Realidad Aumentada y la Realidad Virtual, pero grandes compañías como Meta ya apuestan todo al metaverso y otras como Inditex, Nike, BMW o Coca-Cola empiezan a adentrarse de lleno en este mundo virtual. Sin duda, la realidad extendida será una de las piezas claves de este 2022 y en Big Data & AI World Madrid se analizarán los retos, pero, sobre todo, las oportunidades que el metaverso ofrece a las empresas.
+ 
+El impacto de la computación cuántica: Sin duda, la computación cuántica provocará un salto cualitativo sin precedentes. Se podrán procesar, en cuestión de segundos, datos que de otra forma las supercomputadoras procesarían durante años. Estas máquinas, que multinacionales como IBM quiere acercar a todo tipo de empresas, permitirán analizar la ingente cantidad de datos que se generan en un mundo hiperconectado con el objetivo de obtener resultados, líneas de actuación e información valiosa.
+ 
+Gobierno del Dato: Es un tema trascendental que seguirá estando en boca de todos durante 2022. Saber cuál es la correcta gestión de los datos que gestiona una empresa tanto propios como ajenos es un reto mayúsculo en términos de operatividad, de resultados, de seguridad o de reputación. Es un activo fundamental para las empresas, no solo el saber cómo detectar el Smart Data dentro del lago de datos, sino, el cómo albergarlos, protegerlos y, sobre todo, explotarlos.
+
 Las 7 V del Big Data
 Volumen: Son los grandes volúmenes de datos generados que deben ser procesados.
 Velocidad: El ritmo y constancia a la que se reciben esos datos es la velocidad.
